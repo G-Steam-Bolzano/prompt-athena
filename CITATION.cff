@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se usi questa skill, citala come segue."
+title: "prompt-athena"
+type: software
+authors:
+  - family-names: "Martino"
+    given-names: "Leonardo"
+    alias: "spawn81"
+repository-code: "https://github.com/G-Steam-Bolzano/prompt-athena"
+license: CC-BY-SA-4.0
